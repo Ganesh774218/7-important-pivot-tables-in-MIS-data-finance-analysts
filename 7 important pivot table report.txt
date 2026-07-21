@@ -1,0 +1,65 @@
+Project Report
+Excel Business Intelligence Report
+
+
+Project Objective - 
+The primary objective of this project was to analyze retail sales data using Microsoft Excel Pivot Tables and convert raw transactional data into meaningful business insights.
+The project demonstrates how Pivot Tables can be used to summarize large datasets, compare performance, evaluate profitability, monitor business targets, and support strategic decision-making.
+
+
+Dataset Description
+The dataset consists of retail sales transactions containing customer, product, revenue, cost, and target information.
+Additional date fields such as Quarter and Month were included to enable time-based analysis.
+
+
+Analysis Performed
+Customer Retention Analysis
+Created a Pivot Table to identify customers making repeated purchases.
+This analysis helps businesses understand customer loyalty and retention trends.
+
+
+Quarterly Performance Analysis
+A Pivot Table was developed to summarize:
+Revenue
+Number of Orders
+Target Revenue
+Profit
+The report enables comparison of business performance across quarters.
+
+
+Pareto Analysis
+Using Pivot Tables and cumulative percentage calculations, customers were ranked according to revenue contribution.
+This report demonstrates the Pareto Principle, highlighting customers responsible for the majority of business revenue.
+
+
+Target vs Actual Analysis
+Compared actual revenue with planned target revenue.
+This analysis assists management in evaluating performance against predefined goals.
+
+
+Profit Analysis
+Calculated revenue, profit, and average profit percentage for individual products.
+The report identifies products generating the highest profitability.
+
+Product Portfolio Matrix
+Analyzed products based on revenue and units sold.
+This helps classify products according to their contribution to overall business performance.
+
+
+Category Distribution
+Summarized sales by product category to identify categories contributing the highest revenue.
+Useful for inventory planning and category-level business strategy.
+
+Skills Demonstrated
+Pivot Tables
+Business Reporting
+KPI Analysis
+Revenue Analysis
+Customer Analysis
+Profit Analysis
+Data Summarization
+Business Intelligence
+Microsoft Excel
+Business Outcome
+
+The project transformed raw sales transactions into actionable business reports that enable stakeholders to monitor performance, identify profitable products, evaluate customer behavior, and compare business results against targets.
